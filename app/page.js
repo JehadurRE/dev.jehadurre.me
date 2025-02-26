@@ -26,8 +26,8 @@ const Page = () => {
       <Skills />
       <Services />
       <Clients />
-      <RecentWorks />
-      <Blog />
+      {/* <RecentWorks /> */}
+      {/* <Blog /> */}
       <ContactsInfo />
     </GlitcheLayout>
   );
