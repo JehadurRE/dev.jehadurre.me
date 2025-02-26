@@ -1,0 +1,34 @@
+{
+  "name": "dev.jehadurre",
+  "version": "2.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@radix-ui/react-slot": "^1.1.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.4.7",
+    "fslightbox-react": "^1.7.6",
+    "isotope-layout": "^3.0.6",
+    "lucide-react": "^0.476.0",
+    "next": "14.2.16",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-player": "^2.13.0",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7",
+    "typed.js": "^2.0.16"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.9",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.9"
+  }
+}
